@@ -251,451 +251,201 @@
   },
   {
     "id": "q-051",
-    "text": "He who has a why to live can bear almost any how.",
-    "author": "Friedrich Nietzsche"
-  },
-  {
-    "id": "q-052",
-    "text": "What does not kill me makes me stronger.",
-    "author": "Friedrich Nietzsche"
-  },
-  {
-    "id": "q-053",
-    "text": "Become who you are.",
-    "author": "Friedrich Nietzsche"
-  },
-  {
-    "id": "q-054",
-    "text": "You must have chaos within you to give birth to a dancing star.",
-    "author": "Friedrich Nietzsche"
-  },
-  {
-    "id": "q-055",
-    "text": "The individual has always had to struggle to keep from being overwhelmed by the tribe.",
-    "author": "Friedrich Nietzsche"
-  },
-  {
-    "id": "q-056",
-    "text": "The mystery of human existence lies not in just staying alive, but in finding something to live for.",
-    "author": "Fyodor Dostoevsky"
-  },
-  {
-    "id": "q-057",
-    "text": "Pain and suffering are always inevitable for a large intelligence and a deep heart.",
-    "author": "Fyodor Dostoevsky"
-  },
-  {
-    "id": "q-058",
-    "text": "Above all, do not lie to yourself.",
-    "author": "Fyodor Dostoevsky"
-  },
-  {
-    "id": "q-059",
-    "text": "Taking a new step, uttering a new word, is what people fear most.",
-    "author": "Fyodor Dostoevsky"
-  },
-  {
-    "id": "q-060",
-    "text": "To live without hope is to cease to live.",
-    "author": "Fyodor Dostoevsky"
-  },
-  {
-    "id": "q-061",
-    "text": "In the fight between yourself and the world, back yourself.",
-    "author": "Franz Kafka"
-  },
-  {
-    "id": "q-062",
-    "text": "From a certain point onward there is no turning back. That is the point that must be reached.",
-    "author": "Franz Kafka"
-  },
-  {
-    "id": "q-063",
-    "text": "I am free and that is why I am lost.",
-    "author": "Franz Kafka"
-  },
-  {
-    "id": "q-064",
-    "text": "Paths are made by walking.",
-    "author": "Franz Kafka"
-  },
-  {
-    "id": "q-065",
-    "text": "Anyone who keeps the ability to see beauty never grows old.",
-    "author": "Franz Kafka"
-  },
-  {
-    "id": "q-066",
-    "text": "You have power over your mind — not outside events.",
-    "author": "Marcus Aurelius"
-  },
-  {
-    "id": "q-067",
-    "text": "What stands in the way becomes the way.",
-    "author": "Marcus Aurelius"
-  },
-  {
-    "id": "q-068",
-    "text": "Waste no more time arguing what a good man should be. Be one.",
-    "author": "Marcus Aurelius"
-  },
-  {
-    "id": "q-069",
-    "text": "The happiness of your life depends upon the quality of your thoughts.",
-    "author": "Marcus Aurelius"
-  },
-  {
-    "id": "q-070",
-    "text": "Be tolerant with others and strict with yourself.",
-    "author": "Marcus Aurelius"
-  },
-  {
-    "id": "q-071",
-    "text": "We suffer more often in imagination than in reality.",
-    "author": "Seneca"
-  },
-  {
-    "id": "q-072",
-    "text": "Luck is what happens when preparation meets opportunity.",
-    "author": "Seneca"
-  },
-  {
-    "id": "q-073",
-    "text": "Difficulties strengthen the mind, as labor does the body.",
-    "author": "Seneca"
-  },
-  {
-    "id": "q-074",
-    "text": "A gem cannot be polished without friction, nor a man perfected without trials.",
-    "author": "Seneca"
-  },
-  {
-    "id": "q-075",
-    "text": "As long as you live, keep learning how to live.",
-    "author": "Seneca"
-  },
-  {
-    "id": "q-076",
-    "text": "Knowing yourself is the beginning of all wisdom.",
-    "author": "Aristotle"
-  },
-  {
-    "id": "q-077",
-    "text": "We are what we repeatedly do. Excellence, then, is not an act but a habit.",
-    "author": "Aristotle"
-  },
-  {
-    "id": "q-078",
-    "text": "Happiness depends upon ourselves.",
-    "author": "Aristotle"
-  },
-  {
-    "id": "q-079",
-    "text": "The beginning is the most important part of the work.",
-    "author": "Plato"
-  },
-  {
-    "id": "q-080",
-    "text": "Wise men speak because they have something to say.",
-    "author": "Plato"
-  },
-  {
-    "id": "q-081",
-    "text": "Until you make the unconscious conscious, it will direct your life and you will call it fate.",
-    "author": "Carl Jung"
-  },
-  {
-    "id": "q-082",
-    "text": "I am not what happened to me, I am what I choose to become.",
-    "author": "Carl Jung"
-  },
-  {
-    "id": "q-083",
-    "text": "No tree can grow to heaven unless its roots reach down to hell.",
-    "author": "Carl Jung"
-  },
-  {
-    "id": "q-084",
-    "text": "The privilege of a lifetime is to become who you truly are.",
-    "author": "Carl Jung"
-  },
-  {
-    "id": "q-085",
-    "text": "The most terrifying thing is to accept oneself completely.",
-    "author": "Carl Jung"
-  },
-  {
-    "id": "q-086",
-    "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
-    "author": "Viktor Frankl"
-  },
-  {
-    "id": "q-087",
-    "text": "Everything can be taken from a man but one thing: the last of the human freedoms.",
-    "author": "Viktor Frankl"
-  },
-  {
-    "id": "q-088",
-    "text": "Between stimulus and response there is a space.",
-    "author": "Viktor Frankl"
-  },
-  {
-    "id": "q-089",
-    "text": "Life is never made unbearable by circumstances, but only by lack of meaning and purpose.",
-    "author": "Viktor Frankl"
-  },
-  {
-    "id": "q-090",
-    "text": "In some ways suffering ceases to be suffering at the moment it finds a meaning.",
-    "author": "Viktor Frankl"
-  },
-  {
-    "id": "q-091",
-    "text": "Discipline equals freedom.",
-    "author": "Jocko Willink"
-  },
-  {
-    "id": "q-092",
-    "text": "Comparison is the thief of joy.",
-    "author": "Theodore Roosevelt"
-  },
-  {
-    "id": "q-093",
-    "text": "Do not pray for an easy life; pray for the strength to endure a difficult one.",
-    "author": "Bruce Lee"
-  },
-  {
-    "id": "q-094",
-    "text": "If you’re going through hell, keep going.",
-    "author": "Winston Churchill"
-  },
-  {
-    "id": "q-095",
-    "text": "He who conquers himself is the mightiest warrior.",
-    "author": "Confucius"
-  },
-  {
-    "id": "q-096",
-    "text": "The cave you fear to enter holds the treasure you seek.",
-    "author": "Joseph Campbell"
-  },
-  {
-    "id": "q-097",
-    "text": "A ship in harbor is safe, but that is not what ships are built for.",
-    "author": "John A. Shedd"
-  },
-  {
-    "id": "q-098",
-    "text": "The man who moves a mountain begins by carrying away small stones.",
-    "author": "Confucius"
-  },
-  {
-    "id": "q-099",
-    "text": "Hard times create strong men.",
-    "author": "G. Michael Hopf"
-  },
-  {
-    "id": "q-100",
-    "text": "Work hard in silence; let success make the noise.",
-    "author": "Frank Ocean"
-  },
-  {
-    "id": "q-101",
     "text": "Mountains should be climbed with as little effort as possible and without desire.",
     "author": "Robert M. Pirsig"
   },
   {
-    "id": "q-102",
+    "id": "q-052",
     "text": "Youth is happy because it has the capacity to see beauty.",
     "author": "Franz Kafka"
   },
   {
-    "id": "q-103",
+    "id": "q-053",
     "text": "Start with what is right rather than what is acceptable.",
     "author": "Franz Kafka"
   },
   {
-    "id": "q-104",
+    "id": "q-054",
     "text": "Don’t bend; don’t water it down; don’t try to make it logical.",
     "author": "Franz Kafka"
   },
   {
-    "id": "q-105",
+    "id": "q-055",
     "text": "You do not need to leave your room. Remain sitting at your table and listen.",
     "author": "Franz Kafka"
   },
   {
-    "id": "q-106",
+    "id": "q-056",
     "text": "Much unhappiness has come into the world because of bewilderment and things left unsaid.",
     "author": "Fyodor Dostoevsky"
   },
   {
-    "id": "q-107",
+    "id": "q-057",
     "text": "The soul is healed by being with children.",
     "author": "Fyodor Dostoevsky"
   },
   {
-    "id": "q-108",
+    "id": "q-058",
     "text": "Power is given only to those who dare to lower themselves and pick it up.",
     "author": "Fyodor Dostoevsky"
   },
   {
-    "id": "q-109",
+    "id": "q-059",
     "text": "Man only likes to count his troubles; he does not calculate his happiness.",
     "author": "Fyodor Dostoevsky"
   },
   {
-    "id": "q-110",
+    "id": "q-060",
     "text": "There is always some madness in love. But there is also always some reason in madness.",
     "author": "Friedrich Nietzsche"
   },
   {
-    "id": "q-111",
+    "id": "q-061",
     "text": "No price is too high to pay for the privilege of owning yourself.",
     "author": "Friedrich Nietzsche"
   },
   {
-    "id": "q-112",
+    "id": "q-062",
     "text": "The snake which cannot cast its skin has to die.",
     "author": "Friedrich Nietzsche"
   },
   {
-    "id": "q-113",
+    "id": "q-063",
     "text": "And those who were seen dancing were thought to be insane by those who could not hear the music.",
     "author": "Friedrich Nietzsche"
   },
   {
-    "id": "q-114",
+    "id": "q-064",
     "text": "If it is not right, do not do it; if it is not true, do not say it.",
     "author": "Marcus Aurelius"
   },
   {
-    "id": "q-115",
+    "id": "q-065",
     "text": "You could leave life right now. Let that determine what you do and say and think.",
     "author": "Marcus Aurelius"
   },
   {
-    "id": "q-116",
+    "id": "q-066",
     "text": "It is not that we have a short time to live, but that we waste much of it.",
     "author": "Seneca"
   },
   {
-    "id": "q-117",
+    "id": "q-067",
     "text": "He who is brave is free.",
     "author": "Seneca"
   },
   {
-    "id": "q-118",
+    "id": "q-068",
     "text": "Begin at once to live, and count each separate day as a separate life.",
     "author": "Seneca"
   },
   {
-    "id": "q-119",
+    "id": "q-069",
     "text": "Be kind, for everyone you meet is fighting a hard battle.",
     "author": "Plato"
   },
   {
-    "id": "q-120",
+    "id": "q-070",
     "text": "One does not become enlightened by imagining figures of light, but by making the darkness conscious.",
     "author": "Carl Jung"
   },
   {
-    "id": "q-121",
+    "id": "q-071",
     "text": "People will do anything, no matter how absurd, to avoid facing their own souls.",
     "author": "Carl Jung"
   },
   {
-    "id": "q-122",
+    "id": "q-072",
     "text": "Your visions will become clear only when you can look into your own heart.",
     "author": "Carl Jung"
   },
   {
-    "id": "q-123",
+    "id": "q-073",
     "text": "Loneliness does not come from having no people around, but from being unable to communicate the things that seem important.",
     "author": "Carl Jung"
   },
   {
-    "id": "q-124",
+    "id": "q-074",
     "text": "Where love rules, there is no will to power.",
     "author": "Carl Jung"
   },
   {
-    "id": "q-125",
+    "id": "q-075",
     "text": "Those who have a why to live can bear with almost any how.",
     "author": "Viktor Frankl"
   },
   {
-    "id": "q-126",
+    "id": "q-076",
     "text": "What man actually needs is not a tensionless state but rather the striving and struggling for a worthwhile goal.",
     "author": "Viktor Frankl"
   },
   {
-    "id": "q-127",
+    "id": "q-077",
     "text": "Each man is questioned by life.",
     "author": "Viktor Frankl"
   },
   {
-    "id": "q-128",
+    "id": "q-078",
     "text": "Success, like happiness, cannot be pursued; it must ensue.",
     "author": "Viktor Frankl"
   },
   {
-    "id": "q-129",
+    "id": "q-079",
     "text": "An abnormal reaction to an abnormal situation is normal behavior.",
     "author": "Viktor Frankl"
   },
   {
-    "id": "q-130",
+    "id": "q-080",
     "text": "To be everywhere is to be nowhere.",
     "author": "Seneca"
   },
   {
-    "id": "q-131",
+    "id": "q-081",
     "text": "The strongest people are not those who show strength in front of us, but those who win battles we know nothing about.",
     "author": "Jonathan Harnisch"
   },
   {
-    "id": "q-132",
+    "id": "q-082",
     "text": "However deep the river, it still wants to grow.",
     "author": "African Proverb"
   },
   {
-    "id": "q-133",
+    "id": "q-083",
     "text": "When there is no enemy within, the enemies outside cannot hurt you.",
     "author": "African Proverb"
   },
   {
-    "id": "q-134",
+    "id": "q-084",
     "text": "A roaring lion kills no game.",
     "author": "African Proverb"
   },
   {
-    "id": "q-135",
+    "id": "q-085",
     "text": "The bamboo that bends is stronger than the oak that resists.",
     "author": "Japanese Proverb"
   },
   {
-    "id": "q-136",
+    "id": "q-086",
     "text": "One kind word can warm three winter months.",
     "author": "Japanese Proverb"
   },
   {
-    "id": "q-137",
+    "id": "q-087",
     "text": "Flow with whatever may happen, and let your mind be free.",
     "author": "Zhuangzi"
   },
   {
-    "id": "q-138",
+    "id": "q-088",
     "text": "Sitting quietly, doing nothing, spring comes, and the grass grows by itself.",
     "author": "Zen Proverb"
   },
   {
-    "id": "q-139",
+    "id": "q-089",
     "text": "When the student is ready, the teacher will appear.",
     "author": "Zen Proverb"
   },
   {
-    "id": "q-140",
+    "id": "q-090",
     "text": "The quieter you become, the more you are able to hear.",
     "author": "Ram Dass"
   }
