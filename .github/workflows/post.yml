@@ -3,7 +3,7 @@ name: Daily Instagram Reel
 on:
   schedule:
     # 16:30 UTC = 10:00 PM IST
-    - cron: '30 16 * * *'
+    - cron: '0 16 * * *'
   workflow_dispatch:
 
 permissions:
@@ -36,6 +36,7 @@ jobs:
           sudo rm -rf /var/lib/apt/lists/*
           sudo apt-get update
           sudo apt-get install -y ffmpeg
+
 
       - name: Cache fonts
         id: cache-fonts
@@ -71,6 +72,7 @@ jobs:
           GITHUB_BRANCH:       ${{ github.ref_name }}
           IG_HANDLE:           ${{ vars.IG_HANDLE }}
         run: python -m src.main publish
+
 
       - name: Commit posted-state log
         run: |
